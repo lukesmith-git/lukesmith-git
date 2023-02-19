@@ -1,7 +1,7 @@
--  Hi, I’m @lukesmith-git, I hate the emojis that were preset in the readme!
--  I’m interested in pure mathematics, mostly, but I am enjoying learning more about data science/machine learning.
--  Working on odd projects and looking to break into the industry!
--  How to reach me: lukesmithworkandstuff@gmail.com
+-  Hi, I’m Luke
+-  My biggest interests are in mathematics, especially combinatorics and algebra.
+-  I mostly work on Data Science projects currently as I am trying to break into this field.
+-  contact me at lukesmithworkandstuff@gmail.com
 
 <!---
 lukesmith-git/lukesmith-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
